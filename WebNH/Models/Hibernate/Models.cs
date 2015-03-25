@@ -11,6 +11,7 @@ namespace WebNH.Models.Hibernate
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int DepId { get; set; }
+        public int CountryId { get; set; }
 
     }
 
